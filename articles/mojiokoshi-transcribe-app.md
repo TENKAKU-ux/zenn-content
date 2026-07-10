@@ -1,5 +1,5 @@
 ---
-title: "課題動画の文字起こしが面倒だったので、AIとWhisperアプリを作った話"
+title: "課題動画の文字起こしが面倒だったので、AIと文字起こしアプリを作った話"
 emoji: "🎙"
 type: "tech"
 topics: ["whisper", "python", "個人開発", "ai", "claude"]
