@@ -1,0 +1,12 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "preview": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.2.1"
+  }
+}
